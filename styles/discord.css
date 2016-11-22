@@ -140,3 +140,10 @@ body, .tab-bar-item {
     border: 1px solid #333c49 !important;
     background-color: #212733 !important;
 }
+
+code.inline,
+.message-group .comment .markup pre code {
+    background: #0f1419 !important;
+    color: #3e4b59 !important;
+    border: 1px solid #333C49 !important;
+}
